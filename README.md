@@ -1,9 +1,9 @@
 # s-i-m-s
 Sales and Inventory Management System
 
-- This is a "Sales and Inventory Management System" for small shops which are run by shopkeepers with limited resources and skills. The main aim of this project was to fill the gap between the uneducated local shopkeepers and the over-complicated sales and inventory management systems available.
+- This is a software for small shops which are run by shopkeepers with limited resources and skills. The main aim of this project is to fill the gap between the uneducated local shopkeepers and the over-complicated sales and inventory management systems available.
 
-- This project was aimed towards creating a simple-looking, simple-to-use, user-friendly yet powerful software which would satisfy the needs of the users to a large extent. Keeping the simplicity factor in mind, the project has a front-end and back-end created with Python and MySQL respectively.
+- This project is aimed towards creating a simple-looking, simple-to-use, user-friendly yet powerful software which would satisfy the needs of the users to a large extent. Keeping the simplicity factor in mind, the project has a front-end and back-end created with Python and MySQL respectively.
 
 - Admin side: An admin can perform the following actions: 
 
@@ -32,13 +32,14 @@ Sales and Inventory Management System
 
   3. "Buy" Products - The Buy menu uses very simple terminology so that customers can buy products easily. The product prices include a 10% VAT and customers are also      provided discounts.
 
-- My contributions were: 
+- As a Team Head, my responsibilities were:
 
-  1. Designing the "Project Synopsis",
-  2. Complete restructuring of every module and function
-  3. The entire "Customer side" software,
-  4. Profit / Loss Calculator,
-  5. Debugging,
-  6. Verification,
+  1. Designing the Project Synopsis,
+  2. Complete restructuring and improvisation of every module and function
+  3. All the modules in "Common for both" file,
+  4. The entire "Customer side",
+  5. Profit / Loss Calculator,
+  6. Debugging, and
+  7. Verification
 
-*Our project did not include a UI
+*This project does not include a UI
