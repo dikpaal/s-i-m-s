@@ -35,11 +35,12 @@ Sales and Inventory Management System
 - As a Team Head, my responsibilities were:
 
   1. Designing the Project Synopsis,
-  2. Complete restructuring and improvisation of every module and function
-  3. All the modules in "Common for both" file,
-  4. The entire "Customer side",
-  5. Profit / Loss Calculator,
-  6. Debugging, and
-  7. Verification
+  2. Complete restructuring and improvisation of every module and function,
+  3. The Main Menu,
+  4. All the modules in "common-to-both" file,
+  5. The entire "Customer side",
+  6. Profit / Loss Calculator,
+  7. Debugging, and
+  8. Verification
 
 *This project does not include a UI
