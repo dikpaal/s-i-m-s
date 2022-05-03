@@ -39,8 +39,7 @@ Sales and Inventory Management System
   3. The Main Menu,
   4. All the modules in "common-to-both" file,
   5. The entire "Customer side",
-  6. Profit / Loss Calculator,
-  7. Debugging, and
-  8. Verification
+  6. Profit / Loss Calculator, and
+  7. Debugging
 
 *This project does not include a UI
