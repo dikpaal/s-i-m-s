@@ -37,7 +37,7 @@ Sales and Inventory Management System
   1. Designing the Project Synopsis,
   2. Complete structuring, restructuring and improvisation of each module,
   3. Coding the Main Menu,
-  4. Coding all the modules in "common-to-both" file,
+  4. Coding both the modules which were "common-to-both" sides (admin and customer),
   5. Coding the entire "Customer side",
   6. Coding the Profit / Loss Calculator, and
   7. Debugging each module in the project
