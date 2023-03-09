@@ -42,4 +42,4 @@ Sales and Inventory Management System
   6. Coding the Profit / Loss Calculator, and
   7. Debugging each module in the project
 
-*This project did not include a UI
+*This project did not include a GUI
